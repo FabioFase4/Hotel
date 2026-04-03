@@ -1,6 +1,6 @@
 # Hotel
-Hotel desenvolvido em Java com Frigobar e Reservas
-Orientado por: Adriana Nakahara Miquiline
+- Hotel desenvolvido em Java com Frigobar e Reservas
+- Orientado por: Adriana Nakahara Miquiline
 
 # Aviso
 Projeto elaborado em Java
