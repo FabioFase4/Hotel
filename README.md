@@ -1,6 +1,7 @@
 # Hotel
 - Hotel desenvolvido em Java com Frigobar e Reservas
 - Orientado por: Adriana Nakahara Miquiline
+- Projeto desenvolvido para a disciplina de Programação Orientada a Objetos II no curso de Informática da **UNIVAP**.
 
 # Aviso
 Projeto elaborado em Java
