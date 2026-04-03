@@ -21,4 +21,20 @@ Main file
 Methods
 
 # Recursos Utilizados
-Vetores, Matrizes, tipos primitivos e String
+- Apache Netbeans (IDE)
+- Java (Linguagem)
+- Tipos Primitivos de Dados
+- Classe String
+- Orientação a Objetos
+
+# Técnicas Utilizadas
+- Tratamento de Erros Lógicos (exceto entrada de dados)
+- Arquivo Principal como Sistema Monointegrado de Arquitetura MVC
+- Eficiência de Memória
+- Limpeza de Buffer de Memória
+- Manutenção de Funcionalidades de Usuário
+- Monointegração de Múltiplos Usuários
+
+# Autores:
+- Fábio Silva de Lima
+- Luís Otávio Miranda
