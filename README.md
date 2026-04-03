@@ -37,7 +37,7 @@ Methods
 
 # Autores:
 - Fábio Silva de Lima
-- Luís Otávio Miranda
+- Guilherme Henrique Nascimento Gonzales Barreto
 
 ---
 Focado em ingressar no ITA - Instituto Tecnológico de Aeronáutica.*
